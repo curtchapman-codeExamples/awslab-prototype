@@ -24,7 +24,7 @@ Credentials and environmental variables have been removed from this code and hos
 <br/> <br/>
  **Flow:**
 
- <img src="https://github.com/curtchapman-codeExamples/awslab-prototype/blob/master/design/flow.png?raw=true" width="800">
+ <img src="https://github.com/curtchapman-codeExamples/awslab-prototype/blob/master/design/flow.jpg?raw=true" width="800">
 <br/> <br/>
 
 **Screenshots / Video:**
