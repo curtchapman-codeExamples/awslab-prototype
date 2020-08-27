@@ -24,7 +24,7 @@ Credentials and environmental variables have been removed from this code and hos
 
  **Flow:**
 
- <img src="[link]" width="600">
+ <img src="https://github.com/curtchapman-codeExamples/awslab-prototype/blob/master/design/flow.png?raw=true" width="600">
 
 **Screenshots / Video:**
 
@@ -32,4 +32,3 @@ Click for Youtube
 [![Proof of Concept - AWS Integration](https://i.ytimg.com/an_webp/gEasNbd5OCo/mqdefault_6s.webp?du=3000&sqp=CJTyn_oF&rs=AOn4CLB0NPXAYD7ZBLsfMEzijrQFHPr9cw)](https://www.youtube.com/watch?v=gEasNbd5OCo)
 
 
-<img src="https://github.com/curtchapman-codeExamples/impenetrable-blog/blob/master/design/ImpenetrableBlogMobile.png?raw=true" width="450">
