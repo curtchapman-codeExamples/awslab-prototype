@@ -3,7 +3,7 @@
 
 **Status:** Offline/Code Example Only
 **URL:** [none]
-<br/> <br/> 
+<br/> <br/>
 A prototype developed for a Client to demonstrate my ability to launch a user specific cloud computing architecture containing a hosted website in AWS, all the while providing feedback to the User in a separate Web App in real time via client side JavaScript. Details of the instance also needed to be stored on a no-SQL database.   
 
 Included in this repo is the main code for the client-side to make back-end calls and animate the display, the server-side code and the lambda functions that are called from AWS, written in Python at the clients request.
